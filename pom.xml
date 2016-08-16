@@ -16,4 +16,7 @@
    <properties>
       <hawkbit.version>0.2.0-SNAPSHOT</hawkbit.version>
    </properties>
+   <modules>
+      <module>hawkbit-nextgen-ui-example</module>
+   </modules>
 </project>
